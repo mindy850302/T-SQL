@@ -1,0 +1,3 @@
+[submodule "MVC"]
+	path = MVC
+	url = https://git.gss.com.tw/mindy_hsu/_NET_MVC.git
